@@ -50,7 +50,7 @@ class Main:
     鈹� [鉁揮 WHATSAPP : +8801979526394        鈹�
     鈹� [鉁揮 POWER BY : \x1b[1;32mPLAYBOY\x1b[1;97m            鈹�
     鈹斺攢鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹榎033[1;92m""")
-		print("%s [%s庐%s] %sTOOL NAME : %sOLD CLONER"%(G,R,G,Y,G))
+		print("%s [%s庐%s] %sTOOL NAME : %sNOT WORKING"%(G,R,G,Y,G))
 		print("%s [%s庐%s] %sVERSION   : %s2.0 "%(G,R,G,Y,G))
 		print("%s [%s庐%s] %sSTATUS    : %sF R E E"%(G,R,G,Y,G)) 
 		print("\033[97;1m   鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€鈹€")
